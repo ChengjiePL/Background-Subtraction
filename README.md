@@ -60,7 +60,9 @@ python main.py
 
 Here's an example of the vehicle detection output:
 
-![Example Output](https://github.com/user-attachments/assets/041f72fe-a85e-4f82-ac72-55b77164dc44)
+[resultat.webm](https://github.com/user-attachments/assets/2eaf32c8-2a81-48fd-858d-de50c66b4e0e)
+
+
 
 ## 🛡 License
 
