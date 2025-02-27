@@ -32,6 +32,22 @@ This project implements **vehicle detection** using the **background subtraction
 
 ## 🚀 How to Run
 
+### **1. Clone the repository**
+
+```bash
+git clone https://github.com/ChengjiePL/Background-Subtraction && cd Background-Subtraction
+```
+
+### **2. Get the Dataset**
+
+```bash
+curl -O http://jacarini.dinf.usherbrooke.ca/static/dataset/baseline/highway.zip
+
+# or with wget
+
+wget http://jacarini.dinf.usherbrooke.ca/static/dataset/baseline/highway.zip
+```
+
 ### 🔹 **Matlab Version**
 
 1️⃣ Open Matlab  
@@ -61,8 +77,6 @@ python main.py
 Here's an example of the vehicle detection output:
 
 [resultat.webm](https://github.com/user-attachments/assets/2eaf32c8-2a81-48fd-858d-de50c66b4e0e)
-
-
 
 ## 🛡 License
 
