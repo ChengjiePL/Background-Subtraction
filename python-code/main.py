@@ -10,7 +10,7 @@ from skimage.metrics import structural_similarity as ssim
 # TASCA 1
 
 def load_dataset():
-    dataset = './highway/input/'
+    dataset = '../highway/input/'
     files = sorted([f for f in os.listdir(dataset) if f.startswith("in001") and f.endswith(".jpg")])
     train_files = files[:150]
     test_files = files[150:]
