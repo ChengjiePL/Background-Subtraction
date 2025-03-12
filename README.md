@@ -76,7 +76,7 @@ python main.py
 
 Here's an example of the vehicle detection output:
 
-[resultat.webm](https://github.com/user-attachments/assets/2eaf32c8-2a81-48fd-858d-de50c66b4e0e)
+[segmentacion_coches.webm](https://github.com/user-attachments/assets/165c51c2-e185-417b-861d-4a957243e364)
 
 ## 🛡 License
 
